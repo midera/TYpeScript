@@ -1,0 +1,4 @@
+# Project exclude paths
+/componentt/gender.js
+/node_modules/
+/app.js
